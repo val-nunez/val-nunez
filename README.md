@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I'm Val 👋
+🔭 I’m currently working on
 
 <!--
 **val-nunez/val-nunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,figma,ps,ai,xd,blender,github)](https://skillicons.dev)
+
+[![](https://badgen.net/static/rubber%20duck%20debugger/quack/DB1)](https://github.com/sebmestrallet/absurd-badges)
+
+![](https://badgen.net/static/currently%20playing/%20TEST/F96854)
+
