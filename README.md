@@ -1,11 +1,11 @@
 <h3>It's me, @val-nunez!</h3>
 
-☀️ Staff UI Designer @ Mob Entertainment  &nbsp; &nbsp; | &nbsp; 🌙 Artist and Writer
+☀️ Staff UI Designer @ Mob Entertainment  &nbsp; &nbsp;|&nbsp; 🌙 Artist and Writer
 
 - 🌱 I’m currently learning <b> `Unity CLI` </b>
 - 😄 Pronouns <b> `They/Them` </b>
 - ⚡ Fun fact <b> `Classically trained baker` </b>
-- 💬 Ask me about <b> `Recursion` </b>
+- 💬 Ask me about <b> `Hobonichi` </b>
 - ❤️ Game Development
 <br>
 
