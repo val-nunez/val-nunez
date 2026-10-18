@@ -7,33 +7,38 @@
 - ⚡ Fun fact <b> `Classically trained baker` </b>
 - 💬 Ask me about <b> `Recursion` </b>
 - ❤️ Game Development
-
 <br>
 
-<h3>📍Current Project</h3>
+<h3>📍Current Projects</h3>
 <h4><i>Her Kingdom Has Long Fallen</i></h4>
 
 - [x] Example completed issue #000
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Another example task
 
+<h4><i>Code Duck</i></h4>
+
+- [x] Example completed issue #000
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Another example task
 <br>
 
 <div align=center>
 <h3>Skills and Software</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,figma,ps,ai,xd,blender,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,vscode,blender,figma,ps,ai,xd,github)](https://skillicons.dev)
 </div>
 
-<br>
+---
+
 <div align=center>
   
-![](https://badgen.net/static/currently%20playing/%20TEST/F96854)
-![](https://badgen.net/static/currently%20playing/%20TEST/F96854)
-![](https://badgen.net/static/currently%20playing/%20TEST/F96854)
+![](https://badgen.net/static/Code%20Duck/%20quack/FFFA61) &nbsp;
+![](https://badgen.net/static/currently%20playing/%20Order%20of%20the%20Sinking%20Star/9842CF) &nbsp;
+![](https://badgen.net/static/%20Unfinished%20Games/28/457DDE)
 </div>
 
-<br>
+<br><br>
 
 > [!IMPORTANT]
 > This is my personal Github repository, home to my many tiny silly ideas and unfinished games. All projects here are my own.
