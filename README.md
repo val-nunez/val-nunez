@@ -7,7 +7,6 @@
 - ⚡ Fun fact <b> `Classically trained baker` </b>
 - 💬 Ask me about <b> `Hobonichi` </b>
 - ❤️ Game Development
-<br>
 
 <h3>📍Current Projects</h3>
 <h4><i>Her Kingdom Has Long Fallen</i></h4>
