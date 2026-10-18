@@ -1,4 +1,6 @@
-<h3>It's me, @val-nunez!</h3>
+<h3>
+
+It's me [@val-nunez](https://bsky.app/profile/valnunez.bsky.social)! </h3>
 
 ☀️ Staff UI Designer @ Mob Entertainment  &nbsp; &nbsp;|&nbsp; 🌙 Artist and Writer
 
@@ -24,7 +26,7 @@
 <div align=center>
 <h3>Skills and Software</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,vscode,blender,figma,ps,ai,xd,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,vscode,blender,figma,ps,ai,xd,github,unreal)](https://skillicons.dev)
 </div>
 
 ---
