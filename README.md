@@ -12,15 +12,11 @@ It's me [@val-nunez](https://bsky.app/profile/valnunez.bsky.social)! </h3>
 <h3>📍Current Projects</h3>
 <h4><i>Her Kingdom Has Long Fallen</i></h4>
 
-- [x] Example completed issue #000
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Another example task
+- [ ] [Another example task](https://github.com/users/val-nunez/projects/4?pane=issue&itemId=276974907)
 
 <h4><i>Code Duck</i></h4>
 
-- [x] Example completed issue #000
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Another example task
+- [ ] **TODO**: Create Code Duck wiki
 <br>
 
 <div align=center>
