@@ -12,7 +12,8 @@ It's me [@val-nunez](https://bsky.app/profile/valnunez.bsky.social)! </h3>
 <h3>📍Current Projects</h3>
 <h4><i>Her Kingdom Has Long Fallen</i></h4>
 
-- [ ] [Another example task](https://github.com/users/val-nunez/projects/4?pane=issue&itemId=276974907)
+- [x] Initial Unity project setup
+- [ ] **TODO**: Populate design wiki with Systems section
 
 <h4><i>Code Duck</i></h4>
 
