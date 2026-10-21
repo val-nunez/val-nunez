@@ -10,12 +10,13 @@ It's me [@val-nunez](https://bsky.app/profile/valnunez.bsky.social)! </h3>
 - ❤️ Game Development
 
 <h3>📍Current Projects</h3>
-<h4><i>Her Kingdom Has Long Fallen</i></h4>
+
+_**Her Kingdom Has Long Fallen**_
 
 - [x] Initial Unity project setup
 - [ ] **TODO**: Populate design wiki with Systems section
 
-<h4><i>Code Duck</i></h4>
+_**Code Duck**_
 
 - [ ] **TODO**: Create Code Duck wiki
 <br>
